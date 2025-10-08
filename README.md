@@ -1,4 +1,4 @@
-## Hi there I'm @sfrqltkn. 👋
+## Hi there I'm @Sefer Can Gültekin. 👋
 
 
 💻 I’m a **Full-Stack Developer** passionate about building scalable, modern, and user-friendly applications.  
