@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there I'm @sfrqltkn. 👋
 
-🎓 I studied **Computer Engineering** for 1 year and continued improving myself through real-world projects and self-learning.
 
 💻 I’m a **Full-Stack Developer** passionate about building scalable, modern, and user-friendly applications.  
 📱 Although my main focus is full-stack web development, I’m also deeply interested in **mobile app development** (especially with **Flutter & Dart**).
