@@ -16,7 +16,7 @@ Experienced **Full-Stack Developer** specialized in building scalable, enterpris
 
 #### 🔹 DevOps & Infrastructure
 * **Containerization:** Docker & Kubernetes (K8s).
-* **CI/CD:** Automating workflows with **GitHub Actions** & Jenkins.
+* **CI/CD:** Automating workflows with **GitHub Actions**.
 
 ---
 
