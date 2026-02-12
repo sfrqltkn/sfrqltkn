@@ -23,15 +23,29 @@ Experienced **Full-Stack Developer** specialized in building scalable, enterpris
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-### 🛠️ Core Tech Stack
+### 🛠️ Languages and Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET / .NET Core" alt="dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="css3" width="40" height="40"/>&nbsp;
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C#, TypeScript, Dart, JavaScript, SQL |
-| **Databases** | PostgreSQL, MSSQL, Firebase (Firestore/Auth), Redis |
-| **DevOps/Tools** | Git, Jira, GitHub Actions, Docker, Kubernetes |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="dart" width="40" height="40"/>&nbsp;
 
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
+</div>
 
 ### 📫 How to reach me
 <p align="left">
@@ -42,20 +56,6 @@ Experienced **Full-Stack Developer** specialized in building scalable, enterpris
 <br />
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-### 🛠️ Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="MicrosoftSQLServer" width="40" height="40"/>&nbsp;
-</div>
 
 ---
 
