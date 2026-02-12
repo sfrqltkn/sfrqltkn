@@ -16,7 +16,7 @@
 * **Mobile:** Cross-platform solutions using **Flutter** & **Dart**.
 
 #### 🔹 DevOps & Infrastructure
-* **Containerization:** Docker & Kubernetes (K8s).
+* **Containerization:** Docker & Kubernetes.
 * **CI/CD:** Automating workflows with **GitHub Actions**.
 
 <p align="center">
