@@ -1,18 +1,25 @@
 ## Hi there I'm @Sefer Can Gültekin. 👋
 
 💻 Full-Stack Developer specialized in building scalable, enterprise-level applications with a focus on modern architectures and real-time systems.
+
 🚀 Currently delivering high-impact solutions in the energy and industrial automation sectors, bridging the gap between robust backend services and seamless user experiences.
 
 🏗️ Technical Expertise:
 Backend Architecture: Expertise in .NET 8/Core, designing maintainable systems with Onion Architecture, CQRS, and MediatR.
+
 Real-time & High Performance: Implementing real-time data processing using SignalR and WebSockets.
+
 Modern Frontend: Developing reactive web interfaces with Angular and TypeScript.
+
 Cross-Platform Mobile: Reviving and optimizing mobile field operations using Flutter & Dart.
+
 DevOps & Infrastructure: Managing containerized environments with Docker & Kubernetes, and automating workflows via CI/CD.
 
 🛠️ Core Tech Stack:
 Languages: C#, TypeScript, Dart, JavaScript, SQL
+
 Frameworks: .NET Core, ASP.NET Core Web API, Angular, Flutter, Entity Framework
+
 Databases: PostgreSQL, MSSQL, Firebase (Firestore/Auth), Redis
 
 DevOps/Tools: Docker, Kubernetes, Git, Jira, GitHub Actions
