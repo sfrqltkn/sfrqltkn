@@ -123,11 +123,6 @@
   <p align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sfrqltkn&theme=react&hide_border=true" />
   </p>
-  
-  <p>
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sfrqltkn&show_icons=true&theme=react&hide_border=true" />
-    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfrqltkn&layout=compact&theme=react&hide_border=true&hide=css" />
-  </p>
 </div>
 
 <br><br><br><br><br><br><br><br> ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
