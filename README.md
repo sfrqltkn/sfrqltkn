@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-### 🏗️ Technical Expertise
+🏗️ Technical Expertise
 
 #### 🔹 Backend & Architecture
 * **Frameworks:** .NET 8 / Core, ASP.NET Core Web API, MVC.
