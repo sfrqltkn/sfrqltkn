@@ -110,11 +110,11 @@
 
 <div align="center">  
   <p align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailhakkii&theme=tokyonight&hide_border=true" />
+   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   </p>
   <p>
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sfrqltkn&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfrqltkn&layout=compact&theme=tokyonight&hide_border=true" />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sfrqltkn&theme=react)](https://git.io/streak-stats)
+   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   </p>
 </div>
 
