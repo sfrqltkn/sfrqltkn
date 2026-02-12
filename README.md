@@ -91,47 +91,46 @@
   </table>
 </div>
 
+<!-- Contact Section -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> 
+  Connect With Me 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" />
+</h1>
 
-<!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="mailto:sfrgltkn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sefer-can-g%C3%BCltekin-952030246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
+
+<!-- Statistics Counter -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> 
   My Statistics
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 </h2>
 
-<p align="left">
-  <a href="mailto:sfrgltkn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sefer-can-g%C3%BCltekin-952030246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<div align="center">  
-  <p align="center">
-   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-  </p>
-  <p>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sfrqltkn&theme=react)](https://git.io/streak-stats)
-   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-  </p>
-</div>
-
-
 <br />
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
----
+<div align="center">  
+  <p align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sfrqltkn&theme=react&hide_border=true" />
+  </p>
+  
+  <p>
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sfrqltkn&show_icons=true&theme=react&hide_border=true" />
+    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfrqltkn&layout=compact&theme=react&hide_border=true&hide=css" />
+  </p>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sfrqltkn&theme=react)](https://git.io/streak-stats)
-
-<a href=""> 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sfrqltkn&theme=react&line_height=40&hide=css"/>
-</a>
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<br><br><br><br><br><br><br><br> ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 <!-- Footer Section -->
