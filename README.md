@@ -1,9 +1,9 @@
 ### 💻 Profile Summary
 Experienced **Full-Stack Developer** specialized in building scalable, enterprise-level applications. I bridge the gap between robust backend architectures and seamless user experiences, particularly within the **energy and industrial automation** sectors.
 
-  <p align="center">
+<p align="center">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </p>
+</p>
 ### 🏗️ Technical Expertise
 
 #### 🔹 Backend & Architecture
@@ -19,9 +19,9 @@ Experienced **Full-Stack Developer** specialized in building scalable, enterpris
 * **Containerization:** Docker & Kubernetes (K8s).
 * **CI/CD:** Automating workflows with **GitHub Actions**.
 
-  <p align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 ### 🛠️ Core Tech Stack
 
