@@ -92,15 +92,32 @@
 </div>
 
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-### 📫 How to reach me
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> 
+  My Statistics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+</h2>
+
 <p align="left">
   <a href="mailto:sfrgltkn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sefer-can-g%C3%BCltekin-952030246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<div align="center">  
+  <p align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailhakkii&theme=tokyonight&hide_border=true" />
+  </p>
+  <p>
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sfrqltkn&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfrqltkn&layout=compact&theme=tokyonight&hide_border=true" />
+  </p>
+</div>
+
 
 <br />
 
@@ -115,3 +132,9 @@
 </a>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+<!-- Footer Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20For%20Visiting%20My%20Profile!&fontSize=20&fontAlignY=80&animation=fadeIn&fontColor=ffffff" width="100%">
+</div>
