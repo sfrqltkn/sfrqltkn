@@ -47,6 +47,11 @@ Experienced **Full-Stack Developer** specialized in building scalable, enterpris
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
 </div>
 
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ### 📫 How to reach me
 <p align="left">
   <a href="mailto:sfrgltkn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
