@@ -1,36 +1,44 @@
-## Hi there I'm @Sefer Can Gültekin. 👋
-
-💻 Full-Stack Developer specialized in building scalable, enterprise-level applications with a focus on modern architectures and real-time systems.
-
-🚀 Currently delivering high-impact solutions in the energy and industrial automation sectors, bridging the gap between robust backend services and seamless user experiences.
-
-🏗️ Technical Expertise:
-Backend Architecture: Expertise in .NET 8/Core, designing maintainable systems with Onion Architecture, CQRS, and MediatR.
-
-Real-time & High Performance: Implementing real-time data processing using SignalR and WebSockets.
-
-Modern Frontend: Developing reactive web interfaces with Angular and TypeScript.
-
-Cross-Platform Mobile: Reviving and optimizing mobile field operations using Flutter & Dart.
-
-DevOps & Infrastructure: Managing containerized environments with Docker & Kubernetes, and automating workflows via CI/CD.
-
-🛠️ Core Tech Stack:
-Languages: C#, TypeScript, Dart, JavaScript, SQL
-
-Frameworks: .NET Core, ASP.NET Core Web API, Angular, Flutter, Entity Framework
-
-Databases: PostgreSQL, MSSQL, Firebase (Firestore/Auth), Redis
-
-DevOps/Tools: Docker, Kubernetes, Git, Jira, GitHub Actions
-
-📫 How to reach me:  
-✉️ **sfrgltkn@gmail.com**  
-🔗 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sefer-can-g%C3%BCltekin-952030246/)
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+### 💻 Profile Summary
+Experienced **Full-Stack Developer** specialized in building scalable, enterprise-level applications. I bridge the gap between robust backend architectures and seamless user experiences, particularly within the **energy and industrial automation** sectors.
 
 ---
+
+### 🏗️ Technical Expertise
+
+#### 🔹 Backend & Architecture
+* **Frameworks:** .NET 8 / Core, ASP.NET Core Web API, MVC.
+* **Patterns:** Onion Architecture, CQRS, MediatR, SOLID Principles.
+* **Real-time:** High-performance data processing via **SignalR** & **WebSockets**.
+
+#### 🔹 Frontend & Mobile
+* **Web:** Reactive interfaces with **Angular**, TypeScript, and Bootstrap.
+* **Mobile:** Cross-platform solutions using **Flutter** & **Dart**.
+
+#### 🔹 DevOps & Infrastructure
+* **Containerization:** Docker & Kubernetes (K8s).
+* **CI/CD:** Automating workflows with **GitHub Actions** & Jenkins.
+
+---
+
+### 🛠️ Core Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, TypeScript, Dart, JavaScript, SQL |
+| **Databases** | PostgreSQL, MSSQL, Firebase (Firestore/Auth), Redis |
+| **DevOps/Tools** | Git, Jira, GitHub Actions, Docker, Kubernetes |
+
+---
+
+### 📫 How to reach me
+<p align="left">
+  <a href="mailto:sfrgltkn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sefer-can-g%C3%BCltekin-952030246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<br />
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🛠️ Languages and Tools
 <div>
