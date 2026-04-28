@@ -109,11 +109,11 @@
 
 <br><br>
 <!-- Statistics Counter -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> 
   My Statistics
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-</h2>
+</h2> -->
 
 <br />
 
